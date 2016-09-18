@@ -1,4 +1,4 @@
-# MMM-Sensor
+# Pir-Sensor
 Turns monitor on and off
 
 Download files to your root directory on your pi
