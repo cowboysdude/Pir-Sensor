@@ -16,7 +16,9 @@ chmod all files:
 From a terminal window in your root directory:
 
 sudo chmod +x pir.py
+
 sudo chmod +x monitor_off.sh
+
 sudo chmod +x monitor_on.sh
 
 Editing pir.py
