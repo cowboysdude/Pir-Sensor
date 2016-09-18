@@ -57,3 +57,6 @@ Go to this line:
    SHUTOFF_DELAY = 20  # seconds
    
    That's how long if NO motion is dectected the pi will shut off the screen.  Change it to your desired number of seconds.
+
+   Other things:
+   If you don't want to put this in  your home directory then you can clone to the directory of your choice BUT remember to adjust your path in crontab... or it won't work!
