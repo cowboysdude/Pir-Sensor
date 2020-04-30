@@ -1,5 +1,5 @@
 # Pir-Sensor
-Turns monitor on and off
+Turns monitor on and off [Currently ONLY works with Raspbian Jesse]
 
 Download files to your root directory on your pi
 
