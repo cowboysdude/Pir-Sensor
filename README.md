@@ -1,4 +1,6 @@
 # Pir-Sensor
+DOES NOT WORK WITH PI4
+
 Turns monitor on and off [Currently ONLY works with Raspbian Jesse]
 
 Download files to your root directory on your pi
