@@ -1,5 +1,5 @@
 # Pir-Sensor
-DOES NOT WORK WITH PI4
+DOES NOT WORK WITH PI4 [As of August 8th, 2021 works with RPI3!]
 
 Turns monitor on and off [Currently ONLY works with Raspbian Jesse]
 
