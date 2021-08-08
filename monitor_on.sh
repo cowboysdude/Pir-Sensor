@@ -1,3 +1,2 @@
-xset s reset
-tvservice -p
-xset dpms force on
+#! /bin/bash
+sudo vcgencmd display_power 1
