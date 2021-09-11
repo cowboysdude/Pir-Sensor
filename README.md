@@ -3,23 +3,19 @@ NOW WORKS WITH PI4 AND RPI3 [PLEASE READ THIS ENTIRE README!]
 
 Download files to your root directory on your pi
 
-Go here to install wiring pi [if you already haven't!] follow the directions there!  
-
-http://wiringpi.com/download-and-install/
+# 1st in a terminal window:
+    sudo apt-get install wiringpi
+    
 ___________________________________________________________________________________
 
-NOW for your sensor... Please hook up all wiring to your GPIO 
-Hook up your power and ground wire to the appropriate GPIO pins [Power pin 2, Ground pin 6]
-Hook up your trigger wire to GPIO Pin 11 which is called GPIO17
+Download and put all files in your root directory on your Raspberry Pi
 
-chmod all files:
-From a terminal window in your root directory:
-
-sudo chmod +x pir.py
-
-sudo chmod +x monitor_off.sh
-
-sudo chmod +x monitor_on.sh
+# chmod all files:
+   From a terminal window in your root directoy (Where the files are):
+   
+    sudo chmod +x pir.py
+    sudo chmod +x monitor_off.sh
+    sudo chmod +x monitor_on.sh
 
 Editing pir.py
 
