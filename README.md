@@ -1,5 +1,5 @@
 # Pir-Sensor
-NOW WORKS WITH PI4 AND RPI3 [PLEASE READ THIS ENTIRE README!]
+NOW WORKS WITH PI4 (HDMI0) AND RPI3 [PLEASE READ THIS ENTIRE README!]
  
 # 1st in a terminal window:
     sudo apt-get install wiringpi
