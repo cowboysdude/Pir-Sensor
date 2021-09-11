@@ -23,8 +23,9 @@ sudo chmod +x monitor_on.sh
 
 Editing pir.py
 
-  # Go to this line   
+# GO TO THIS LINE   
    For RIP3: PIR_PIN = 17        # Pin 11 on the RPI3
+   
    For RPI4: PIR_PIN = 13        # Pin 13 on the RPI4
    
    IF you want to change PIR_PIN for some reason:
@@ -32,7 +33,7 @@ Editing pir.py
    You will need to change this to the pin you're using on the pi for your sensor, to make it easy I would just use it the way it's setup.
    Remember that what the pi reads and what the actual pin number is is not the same.
    
-  # FROM PIR SENSOR
+# FROM PIR SENSOR
     VCC to 5V on either board
     GROUND TO GROUND on either board
     No matter which 5v or Ground you use!  
