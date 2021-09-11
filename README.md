@@ -37,7 +37,8 @@ Editing pir.py
     GROUND TO GROUND on either board
     No matter which 5v or Ground you use!  
    
-  ![alt text](download.png)
+  ![RPI3 Pinout](rpi3.png)
+  ![RPI4 Pinout](R-Pi-4-GPIO-Pinout.jpg)
    
    ___________________________________________________________________________________
    
