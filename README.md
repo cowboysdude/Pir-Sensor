@@ -24,8 +24,10 @@ sudo chmod +x monitor_on.sh
 Editing pir.py
 
 Go to this line:
-   [RIP3] PIR_PIN = 17        # Pin 11 on the RPI3
-   [RPI4] PIR_PIN = 13        # Pin 13 on the RPI4
+   
+   For RIP3: PIR_PIN = 17        # Pin 11 on the RPI3
+   
+   For RPI4: PIR_PIN = 13        # Pin 13 on the RPI4
    
    IF you want to change PIR_PIN for some reason:
    
