@@ -1,7 +1,5 @@
 # Pir-Sensor
-DOES NOT WORK WITH PI4 [As of August 8th, 2021 works with RPI3!]
-
-Turns monitor on and off [Currently ONLY works with Raspbian Jesse]
+NOW WORKS WITH PI4 AND RPI3 [PLEASE READ THIS ENTIRE README!]
 
 Download files to your root directory on your pi
 
@@ -26,12 +24,18 @@ sudo chmod +x monitor_on.sh
 Editing pir.py
 
 Go to this line:
-   PIR_PIN = 17        # Pin 11 on the board
+   [RIP3] PIR_PIN = 17        # Pin 11 on the RPI3
+   [RPI4] PIR_PIN = 13        # Pin 13 on the RPI4
    
    IF you want to change PIR_PIN for some reason:
    
    You will need to change this to the pin you're using on the pi for your sensor, to make it easy I would just use it the way it's setup.
    Remember that what the pi reads and what the actual pin number is is not the same.
+   
+  # FROM PIR SENSOR
+    VCC to 5V on either board
+    GROUND TO GROUN on either board
+    No matter which 5v or Ground you use!  
    
   ![alt text](download.png)
    
