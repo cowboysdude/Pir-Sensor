@@ -1,8 +1,6 @@
 # Pir-Sensor
 NOW WORKS WITH PI4 AND RPI3 [PLEASE READ THIS ENTIRE README!]
-
-Download files to your root directory on your pi
-
+ 
 # 1st in a terminal window:
     sudo apt-get install wiringpi
     
