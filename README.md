@@ -23,7 +23,7 @@ sudo chmod +x monitor_on.sh
 
 Editing pir.py
 
-Go to this line:
+# Go to this line:
    
    For RIP3: PIR_PIN = 17        # Pin 11 on the RPI3
    
@@ -36,7 +36,7 @@ Go to this line:
    
   # FROM PIR SENSOR
     VCC to 5V on either board
-    GROUND TO GROUN on either board
+    GROUND TO GROUND on either board
     No matter which 5v or Ground you use!  
    
   ![alt text](download.png)
