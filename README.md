@@ -1,9 +1,5 @@
 # Pir-Sensor
-
-BEFORE WE EVEN GET STARTED MAY I SUGGEST A NEW MODULE THAT WORKS EVEN BETTER?
-
-https://github.com/bugsounet/MMM-NewPIR
-
+ 
 Works with pi3 and 4, has visual as a module on screen and MUCH easier to 
 setup and configure!!
 
